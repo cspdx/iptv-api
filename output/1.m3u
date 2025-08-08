@@ -1,6 +1,4 @@
-#EXTM3U
-#EXT-X-APP APTV
-
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/cspdx/iptv-api/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 group-title="香港",TV面包
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="香港",BBC
