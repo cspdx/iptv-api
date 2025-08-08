@@ -7,3 +7,25 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
 #EXTINF:-1 tvg-id="PanzihihuaCultureTourismLifeChannel.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/panzhihua.jpg" group-title="Entertainment",Panzihihua Culture Tourism & Life Channel
 https://live.pzhkai.com/wlshtl/sd/live.m3u8?_upt=f156a1051729836828
+#EXTINF:-1 group-title="央视",CCTV-1
+http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-1
+http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-1
+http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-1
+http://39.135.138.58:18890/PLTV/88888888/224/3221225762/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-1
+http://39.135.138.58:18890/PLTV/88888888/224/3221226221/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-1
+http://39.135.138.58:18890/PLTV/88888888/224/3221226225/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-1
+http://39.135.138.58:18890/PLTV/88888888/224/3221225918/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-2
+http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-2
+http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-3
+http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
