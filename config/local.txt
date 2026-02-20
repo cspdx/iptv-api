@@ -5,7 +5,6 @@
 # Support setting whitelist: add $! after the interface
 # If there are multiple local source files, you can create a local directory under the config directory for storage, supporting txt/m3u file formats
 
-无线新闻，http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 CCTV1，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 CCTV1，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 CCTV1，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226030/1/index.m3u8?fmt=ts2hls
@@ -203,3 +202,27 @@ BestV 2，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225784/1/index.
 BestV 3，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
 BestV 4，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
 BestV 5，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225999/1/index.m3u8?fmt=ts2hls
+香港无线新闻，http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+香港GOODTV道在人間，https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
+香港GOODTV好消息，https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
+香港耀才财经，https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+香港有线新闻台，http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+香港TVB Plus，http://bxtv.3a.ink/api.php?id=tvbp
+香港凤凰卫视香港台，http://r.jdshipin.com/yDoTN
+香港凤凰卫视中文台，http://r.jdshipin.com/cCCzW
+香港凤凰卫视資訊台，http://r.jdshipin.com/0Rp07
+香港黄金翡翠，http://php.jdshipin.com/smt.php?id=Tvbjade
+台湾人间卫视，http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+台湾好消息，http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+台湾華視，rtmp://f13h.mine.nu/sat/tv111
+台湾民视新闻台，http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+台湾人间卫视，http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+台湾人间卫视，https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+台湾緯來精采，http://61.221.215.25:8800/hls/48/index.m3u8
+台湾緯來體育，rtmp://f13h.mine.nu/sat/tv721
+時尚台FTV，http://80.94.54.42/fashiontv/stream/playlist.m3u8
+泰国ANTV，http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+韩国MBC Chuncheon，https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+
+
+
