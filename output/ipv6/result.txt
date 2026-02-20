@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-20 17:04:57,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
+2026-02-21 02:02:02,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 
 央视频道,#genre#
 CCTV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
@@ -154,7 +154,11 @@ BestV 4,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225787/1/index.m3
 BestV 5,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225999/1/index.m3u8?fmt=ts2hls
 
 港·澳·台,#genre#
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+香港无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+香港黄金翡翠,http://php.jdshipin.com/smt.php?id=Tvbjade
+香港凤凰卫视資訊台,http://r.jdshipin.com/0Rp07
+香港凤凰卫视中文台,http://r.jdshipin.com/cCCzW
+香港凤凰卫视香港台,http://r.jdshipin.com/yDoTN
 
 电影频道,#genre#
 
