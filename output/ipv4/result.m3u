@@ -1,23 +1,23 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/cspdx/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://10.1.0.129:5180/logo/CCTV1.png" group-title="🕘️更新时间",2026-02-21 02:02:02
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://10.1.0.192:5180/logo/CCTV1.png" group-title="🕘️更新时间",2026-02-21 02:08:22
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 tvg-name="香港有线新闻台" tvg-logo="http://10.1.0.129:5180/logo/香港有线新闻台.png" group-title="港·澳·台",香港有线新闻台
+#EXTINF:-1 tvg-name="香港有线新闻台" tvg-logo="http://10.1.0.192:5180/logo/香港有线新闻台.png" group-title="港·澳·台",香港有线新闻台
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 tvg-name="香港GOODTV好消息" tvg-logo="http://10.1.0.129:5180/logo/香港GOODTV好消息.png" group-title="港·澳·台",香港GOODTV好消息
+#EXTINF:-1 tvg-name="香港GOODTV好消息" tvg-logo="http://10.1.0.192:5180/logo/香港GOODTV好消息.png" group-title="港·澳·台",香港GOODTV好消息
 https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-name="香港GOODTV道在人間" tvg-logo="http://10.1.0.129:5180/logo/香港GOODTV道在人間.png" group-title="港·澳·台",香港GOODTV道在人間
+#EXTINF:-1 tvg-name="香港GOODTV道在人間" tvg-logo="http://10.1.0.192:5180/logo/香港GOODTV道在人間.png" group-title="港·澳·台",香港GOODTV道在人間
 https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
-#EXTINF:-1 tvg-name="台湾緯來體育" tvg-logo="http://10.1.0.129:5180/logo/台湾緯來體育.png" group-title="港·澳·台",台湾緯來體育
+#EXTINF:-1 tvg-name="台湾緯來體育" tvg-logo="http://10.1.0.192:5180/logo/台湾緯來體育.png" group-title="港·澳·台",台湾緯來體育
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 tvg-name="台湾緯來精采" tvg-logo="http://10.1.0.129:5180/logo/台湾緯來精采.png" group-title="港·澳·台",台湾緯來精采
+#EXTINF:-1 tvg-name="台湾緯來精采" tvg-logo="http://10.1.0.192:5180/logo/台湾緯來精采.png" group-title="港·澳·台",台湾緯來精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-name="台湾人间卫视" tvg-logo="http://10.1.0.129:5180/logo/台湾人间卫视.png" group-title="港·澳·台",台湾人间卫视
+#EXTINF:-1 tvg-name="台湾人间卫视" tvg-logo="http://10.1.0.192:5180/logo/台湾人间卫视.png" group-title="港·澳·台",台湾人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 tvg-name="台湾人间卫视" tvg-logo="http://10.1.0.129:5180/logo/台湾人间卫视.png" group-title="港·澳·台",台湾人间卫视
+#EXTINF:-1 tvg-name="台湾人间卫视" tvg-logo="http://10.1.0.192:5180/logo/台湾人间卫视.png" group-title="港·澳·台",台湾人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 tvg-name="台湾民视新闻台" tvg-logo="http://10.1.0.129:5180/logo/台湾民视新闻台.png" group-title="港·澳·台",台湾民视新闻台
+#EXTINF:-1 tvg-name="台湾民视新闻台" tvg-logo="http://10.1.0.192:5180/logo/台湾民视新闻台.png" group-title="港·澳·台",台湾民视新闻台
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-name="台湾華視" tvg-logo="http://10.1.0.129:5180/logo/台湾華視.png" group-title="港·澳·台",台湾華視
+#EXTINF:-1 tvg-name="台湾華視" tvg-logo="http://10.1.0.192:5180/logo/台湾華視.png" group-title="港·澳·台",台湾華視
 rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 tvg-name="韩国MBC Chuncheon" tvg-logo="http://10.1.0.129:5180/logo/韩国MBC Chuncheon.png" group-title="港·澳·台",韩国MBC Chuncheon
+#EXTINF:-1 tvg-name="韩国MBC Chuncheon" tvg-logo="http://10.1.0.192:5180/logo/韩国MBC Chuncheon.png" group-title="港·澳·台",韩国MBC Chuncheon
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
