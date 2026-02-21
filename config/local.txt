@@ -196,12 +196,13 @@ G+TV8，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226036/1/index.m3
 G+TV9，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
 G+TV10，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
 G+TV11，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
-BestV ，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225775/1/index.m3u8?fmt=ts2hls
-BestV 1，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
-BestV 2，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
-BestV 3，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
-BestV 4，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
-BestV 5，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225999/1/index.m3u8?fmt=ts2hls
+BestV，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225775/1/index.m3u8?fmt=ts2hls
+BestV1，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
+BestV2，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
+BestV3，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
+BestV4，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
+BestV5，http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225999/1/index.m3u8?fmt=ts2hls
+无线新闻，http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 
 
 
